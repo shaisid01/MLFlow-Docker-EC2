@@ -118,6 +118,3 @@ docker ps
 docker stop <CONTAINER_ID>
 docker rm <CONTAINER_ID>
 ```
-
-
-## 8. AWS Deployment
