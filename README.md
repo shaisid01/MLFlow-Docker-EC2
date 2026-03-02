@@ -114,9 +114,7 @@ Run Docker Container :
 docker run -d -p 5000:5000 spaceship-titanic-app
 ```
  
-Stop and Remove Container : 
+check Container : 
 ```
 docker ps
-docker stop <CONTAINER_ID>
-docker rm <CONTAINER_ID>
 ```
